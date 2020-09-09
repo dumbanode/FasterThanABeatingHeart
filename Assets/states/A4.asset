@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854389afeeac22b49931873ba17590ac, type: 3}
+  m_Name: A4
+  m_EditorClassIdentifier: 
+  storyText: "I built up my courage and returned to class. I can't believe how ashamed
+    I am of myself for what just happened. Regardless, I can't be late for another
+    class. I'll just sit in the back of the classroom and hopefully Sonic the Hedgehog
+    won't notice me.\r\n\r\nOh great! That jerk from yesterday is sitting in my spot
+    again! And the only spot available is....\r\n\r\nin the front of the classroom.....\r\n\r\nPull
+    yourself together! I can manage this! It's only a 3 hour lecture! It'll be over
+    before I know it!\r\n\r\nMr. Walsh starts the lecture and wholeheartedly welcomes
+    Sonic the Hedgehog to the front of the room. If I wasn't so embarrassed, I'd be
+    clapping. Hopefully my classmates will give him the warm welcome he deserves...\r\n\r\nSonic
+    walks to the front of the lecture hall, and the class... starts booing him?!?\r\n\r\n\"Hey
+    SANIC! Where's your chili dog!\"\r\n\r\n\"GOTTA GO FAST! FREAK!\"\r\n\r\n\"AY!
+    Remember SONIC 06!\"\r\n\r\nOne by one, the students are throwing insults at him,
+    each worse than the last. Sonic just stands there, looking bewildered. He turns
+    to Mr. Walsh, who does not look impressed at the class right now.\r\n\r\n\"Hey,
+    maybe I should just...leave?\" Sonic says to him.\r\n\r\nHe turns around and leaves
+    the way he came, all while the class does not let up.\r\n\r\n\"That's right! Why
+    not star in a good game! Like Super Mario Odyssey!\" One of them adds.\r\n\r\nPoor
+    Sonic, he must have traveled from so far away to be here right now. He must be
+    so upset. Screw these kids, I don't think Sonic is lame! I'm going to go after
+    him and tell him how I feel!"
+  choice1Text: next
+  choice2Text: NULL
+  nextStates:
+  - {fileID: 11400000, guid: 03da073471694aa498d60ea8598aa55e, type: 2}
+  character: {fileID: 0}
+  backdrop: {fileID: 21300000, guid: bcd3aa13251142449ae6b62fad631a99, type: 3}
+  previousState: {fileID: 11400000, guid: e06871491b062824eb200b6d2d56eb7b, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854389afeeac22b49931873ba17590ac, type: 3}
+  m_Name: A5BGO
+  m_EditorClassIdentifier: 
+  storyText: "Sonic starts backing away.\r\n\r\n\".... Uh... listen. I understand
+    your enthusiasm, but I need my own personal space too sometimes. I need to go\"\r\n\r\nGAME
+    OVER"
+  choice1Text: NULL
+  choice2Text: NULL
+  nextStates: []
+  character: {fileID: 21300000, guid: b86441095bfbf184ba2fdea2223a473b, type: 3}
+  backdrop: {fileID: 21300000, guid: bbb87354895c9904fa5be83e4e9e5034, type: 3}
+  previousState: {fileID: 11400000, guid: 6b6925c596c24ca46a1dbbe23b653ed6, type: 2}

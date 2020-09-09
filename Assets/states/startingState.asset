@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854389afeeac22b49931873ba17590ac, type: 3}
+  m_Name: startingState
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to my game!
+
+
+    You are Kevin. Kevin is a university student who has a deep love for Sonic the
+    Hedgehog. His life seemed a little too mundane, until one day someone new came
+    into his life. Can you help him win over this person''s heart?
+
+
+    Click Start Game to continue.'
+  choice1Text: Start Game
+  choice2Text: NULL
+  nextStates:
+  - {fileID: 11400000, guid: 102de88709ecf024ab33eca7b2cbadbf, type: 2}
+  character: {fileID: 0}
+  backdrop: {fileID: 21300000, guid: 9976519e4e674064f92b05b015a22059, type: 3}
+  previousState: {fileID: 0}

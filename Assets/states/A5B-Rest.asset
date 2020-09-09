@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854389afeeac22b49931873ba17590ac, type: 3}
+  m_Name: A5B-Rest
+  m_EditorClassIdentifier: 
+  storyText: "Sonic glares.\r\n\r\n\"Okay, so what are they famous for?\"\r\n\r"
+  choice1Text: 'Bacon Greased Chili Dogs '
+  choice2Text: Chilled Chili Dogs
+  nextStates:
+  - {fileID: 11400000, guid: 2e561aa534dcc2b4f98ae6235f6ef804, type: 2}
+  - {fileID: 11400000, guid: 2e561aa534dcc2b4f98ae6235f6ef804, type: 2}
+  character: {fileID: 21300000, guid: b86441095bfbf184ba2fdea2223a473b, type: 3}
+  backdrop: {fileID: 21300000, guid: bbb87354895c9904fa5be83e4e9e5034, type: 3}
+  previousState: {fileID: 11400000, guid: 8b9d4f3f3bdfdc24694e960523ea64a3, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854389afeeac22b49931873ba17590ac, type: 3}
+  m_Name: end
+  m_EditorClassIdentifier: 
+  storyText: 'That''s all kids!
+
+
+    I hope you had fun reading through this gripping story of love and passion! Unfortunately,
+    the scope of this project quickly ballooned out of control, so I''m currently
+    putting this on the back burner. Perhaps I will return to this in the future,
+    but as of right now, there are more important projects I would prefer to work
+    on.
+
+
+    And with that, I wish you all a good day, and to stop procrastionating. '
+  choice1Text: NULL
+  choice2Text: NULL
+  nextStates: []
+  character: {fileID: 0}
+  backdrop: {fileID: 21300000, guid: 6a77b031244d5554aa788e60d749020f, type: 3}
+  previousState: {fileID: 11400000, guid: 7a07d07e5f54937449cc9bafbd66c41c, type: 2}

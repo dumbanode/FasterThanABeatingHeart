@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854389afeeac22b49931873ba17590ac, type: 3}
+  m_Name: A3C
+  m_EditorClassIdentifier: 
+  storyText: "Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod
+    Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod
+    Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod
+    Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod
+    Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod
+    Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod Ohmygod!\r\n\r\nIt's him! It's
+    Sonic the Hedgehog! Right in front of me! In the flesh! \r\n\r\n\"Sorry about
+    that bud, are you okay?\" He asks me as he recovers off the floor.\r\n\r\nMy brain
+    is stalling. So many thoughts are rushing through my head right now, causing myself
+    to short circuit. There he is, right in front of me, yet the only thoughts manifesting
+    in my head are about the hue of his blue. I have seen Sonic in so many mediums;
+    cartoon, game, print, yet seeing the hue of his blue in person is unlike anything
+    I have ever seen.  Television screens and ink can not convey how deep and rich
+    his blue truly is. Sonic truly stands out confidently among these drab, lifeless
+    walls. \r\n\r\nThe definition of his spines are something you have to see in real
+    life. Polygons cannot do it justice. The way they protrude from behind him are
+    so elegant, yet so mathematically organized. It's almost like god herself crafted
+    them to be the perfect form, without losing the naturalistic flow.\r\n\r\nOceans
+    of white, stretching for miles. Traveling without need for despair, and I slowly
+    reach the green fields of his irises...He's looking right at me.\r\n\r\nUhh..
+    How long have I been staring at him? I need to say something!\r\n\r\n\"Uh...\"
+    And I ran, without second thought. I was scared. I met my hero, someone I idolized
+    since I could first hold a chunky SEGA Genesis control. It was embarrassing, standing
+    there not saying anything for god knows how long?!? I had no other choice. This
+    is one of the worst days of my life! \r\n\r\n "
+  choice1Text: next
+  choice2Text: NULL
+  nextStates:
+  - {fileID: 11400000, guid: 174d982b35c92e848b1f1358592c4240, type: 2}
+  character: {fileID: 21300000, guid: b86441095bfbf184ba2fdea2223a473b, type: 3}
+  backdrop: {fileID: 21300000, guid: 6d6e86c0989ae694a9a4a230d9cb2417, type: 3}
+  previousState: {fileID: 11400000, guid: ec087d3d4c9f68e498097f9e0f78be29, type: 2}

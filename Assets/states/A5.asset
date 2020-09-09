@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854389afeeac22b49931873ba17590ac, type: 3}
+  m_Name: A5
+  m_EditorClassIdentifier: 
+  storyText: "\nMy heart is still beating after what happened. I have Sonic the Hedgehog's
+    phone number, right here, in the palm of my hands! This has to be a dream right
+    now! But now, the question is... when do I call him? I've never been in a situation
+    like this before? I would ask my friends, but unfortunately I do not have any!
+    Ugh, this is so stressful! How do people do this!\r\n\r\n\"I should think this
+    over.\"\r\n\r\nI place the slip of paper on my desk, when suddenly a gust of wind
+    sucks it right out the window! I almost shrieked!\r\n\r\n\"Oh my god NO!\" I burst
+    out the back door and look frantically for the slip of paper. There it is! Straight
+    ahead! I see it being dragged across the street. Ugh, why is it so windy today!
+    I can't believe this!\r\n\r\nI chase it down the city streets, shoving people
+    out of my way. \"Excuse me! Pardon me! Hey watch it!\" It's almost as if this
+    slip of paper has a mind of it's own! \r\n\r\nOutside a convince store, I see
+    a shipping truck, with employees loading stock on board. The slip of paper narrowly
+    flying on board just as they finish closing the back.\r\n\r\n\"Hey! Don't go!\"\r\n\r\n\"Huh,
+    who are you?\"\r\n\r\n\"There's a slip on paper on that truck I need!\"\r\n\r\n\"Haha,
+    nice try funny guy. OKAY GARY! EVERYTHING'S READY TO GO!\"\r\n\r\nThe truck ignition
+    starts and the driver starts driving away. \"NO! PLEASE STOP!\"\r\n\r\nI look
+    forward and watch the truck disappear into the distance. My heart is broken. My
+    one chance, gone! \"Damn, well... that's what I deserve for getting my hopes up.\"\r\n\r\nSuddenly,
+    I notice the truck taking a sharp turn and stopping off at a chili dog restaurant
+    across the street. Couldn't they have delivered on foot? Now's my chance, I dash
+    through the front doors and-"
+  choice1Text: next
+  choice2Text: NULL
+  nextStates:
+  - {fileID: 11400000, guid: 8b9d4f3f3bdfdc24694e960523ea64a3, type: 2}
+  character: {fileID: 0}
+  backdrop: {fileID: 21300000, guid: 6a77b031244d5554aa788e60d749020f, type: 3}
+  previousState: {fileID: 11400000, guid: 03da073471694aa498d60ea8598aa55e, type: 2}

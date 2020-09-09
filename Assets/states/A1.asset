@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854389afeeac22b49931873ba17590ac, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: "You made it just in time, but unfortunately someone is sitting in your
+    unassigned assigned seat at the back of the class.\r\n\r\n\"Oh great, now I have
+    to sit at the front. I don't want Mr. Walsh to smell my unbelievable body odour.\"\r\n\r\nYou
+    sucked it up and parked your ass in the front of the class room. Mr. Walsh started
+    the lecture and gave a lesson on time scheduling. \r\n\r\n\"Booooorrriinnnggg,
+    I don't want to learn about how a computer works! All I want to do is learn how
+    to make video games!\" You thought to yourself while rolling your eyes. You grab
+    your Intendo Snitch and load up Sonic Mania. \"Wow this game is fast!\" You almost
+    say outload.\r\n\r\n\"Now class, tomorrow we have a very special guest. I am pleasured
+    to announce that Sonic the Hedgehog will be a guest speaker during tomorrow's
+    lecture, so I ask you all to be on your best behaviour as our university doesn't
+    get many high profile guests like Sonic the Hedgehog around very often\"\r\n\r\nYour
+    ears perk up and you drop your Snitch. Sonic the Hedgehog! In the flesh! Unbelievable!
+    I can't believe this is happening! Have I died and gone to heaven!?!?\r\n\r\n\"Excuse
+    me Mr.Walsh?\"\r\n\r\n\"Yes Kevin\"\r\n\r\n\"What shoes will Sonic be wearing?
+    Is it his classic shoes or his SOAP shoes?\"\r\n\r\n\"I don't know, now class
+    if you observe-\"\r\n\r\n\"Mr. Walsh! Where is Sonic travelling from? Is he coming
+    from South Island? Or is it Station Square? Or is he coming from-\"\r\n\r\n\"Kevin,
+    I don't know okay, now if I can just-\"\r\n\r\n\"Mr. Walsh! Do you think Sonic
+    is going to explain to us about what happen that one time when the moon was blown
+    up in Sonic Adventure 2 but the moon was back to normal in Shadow the Hedgehog,
+    which is technically a sequel to Sonic Adventure 2? Also why didn't GUN help out
+    in Sonic Forces? Is it because it took place on a different planet as supported
+    by the two world continuity-\"\r\n\r\n\"Kevin! How about you go home early and
+    prepare for his visit? I'm sure you aren't going to be missing much by leaving
+    early?\"\r\n\r\nYour eyes glow. \"Wow thanks Mr. Walsh! I hope Sonic likes Axe
+    body spray!\"\r\n\r\nYou scurry on home."
+  choice1Text: next
+  choice2Text: NULL
+  nextStates:
+  - {fileID: 11400000, guid: fb00b084358c6184b8f7cf8d72061ad3, type: 2}
+  character: {fileID: 21300000, guid: 177a6ab3a7479634c9e1ff3daafa1c09, type: 3}
+  backdrop: {fileID: 21300000, guid: bcd3aa13251142449ae6b62fad631a99, type: 3}
+  previousState: {fileID: 11400000, guid: 102de88709ecf024ab33eca7b2cbadbf, type: 2}

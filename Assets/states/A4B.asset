@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854389afeeac22b49931873ba17590ac, type: 3}
+  m_Name: A4B
+  m_EditorClassIdentifier: 
+  storyText: "\"Hey Sonic! Wait up! You know I can't run as fast as you!\" I yell
+    out into the hallway before he speeds off.\r\n\r\nSonic, not turning out, replies
+    in a muddled voice. \"Going to make fun of me some more are you?\"\r\n\r\n\"No.
+    I just want to tell you something that I should have told you before, but I didn't
+    have the courage.\"\r\n\r\nSonic turns around, and is surprised by who he sees.\r\n\r\n\"It's
+    you! The one in the hallway! Why did you run away?\"\r\n\r\n\"I was embarrassed.
+    I didn't know what to say to you!\"\r\n\r\nSonic smirks. \"You know, running away
+    is pointless because you can never outrun me. I'm the world's fastest hedgehog,
+    I'm Sonic the Hedgehog!\"\r\n\r\n\"You are! Your average speed is around 700mph!\"\r\n\r\nSonic
+    is taken back. \"!... How did you know that!\"\r\n\r\n\"I am the world's number
+    one Sonic the Hedgehog fan! I wanted to tell you how much of an inspiration you
+    are to me! You mean so much to me, ever since I was a kid! I....\" I stop myself.
+    No, I can't say that! I'll scare him off!\r\n\r\nSonic the Hedgehog pauses for
+    a second, closes his eyes and smiles. \"Huh, number one fan eh? That's a bold
+    claim you got there! How do I know you're the real deal?\"\r\n\r\n\"Listen, I
+    may be just 'another' rabid fan that you have to put up with every single day,
+    and it may be true. But what I do know, is that you didn't deserve what happened
+    to you in that lecture hall. They see you as nothing more than a meme in there,
+    but that isn't true. You are so much more, don't let them get to you like that.\"\r\n\r\nA
+    brief pause flies by again, and I see a genuine smile show up on Sonic's face.
+    \"Thanks kid, I really needed that.\" He scribbles something down on a slip of
+    paper, and hands it to me. \"If you ever have any free time, don't be afraid to
+    give me a shout. I gotta get back to kick'n some Eggbutt, gotta jet!\"\r\n\r\nIn
+    a blink of an eye, Sonic is gone. I look down to the slip of paper he handed me
+    and slowly  unfolded it.\r\n\r\nIt's...IT'S SONIC'S PHONE NUMBER! OH MY GOD I
+    CAN NOT BELIEVE IT! THIS IS THE BEST DAY OF MY LIFE!\r\n\r\nAs I continue silently
+    freaking out, the janitor walks by and notices Sonic's shoe smudges on the floor.\r\n\r\n\"
+    MY FLOORS!\" \r\n"
+  choice1Text: next
+  choice2Text: NULL
+  nextStates:
+  - {fileID: 11400000, guid: 38fc72ade6cd1b04dacd0f744826cc37, type: 2}
+  character: {fileID: 21300000, guid: b86441095bfbf184ba2fdea2223a473b, type: 3}
+  backdrop: {fileID: 21300000, guid: 6d6e86c0989ae694a9a4a230d9cb2417, type: 3}
+  previousState: {fileID: 11400000, guid: 174d982b35c92e848b1f1358592c4240, type: 2}
